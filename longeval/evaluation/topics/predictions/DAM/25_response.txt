@@ -1,0 +1,50 @@
+Label: The future of renewable energy storage, Predict: [' The first topic we discussed was the future of renewable energy storage.'], prompt length: 13867
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 14015
+Label: The future of space tourism, Predict: [' The future of space tourism.'], prompt length: 13869
+Label: The impact of technology on human connection, Predict: [' The impact of technology on human connection.'], prompt length: 14073
+Label: The benefits of a plant-based diet, Predict: [' The benefits of a plant-based diet.'], prompt length: 13933
+Label: The psychology of creativity, Predict: [' The psychology of creativity.'], prompt length: 14137
+Label: The benefits of volunteering, Predict: [' The benefits of volunteering.'], prompt length: 14090
+Label: The effects of climate change on ocean ecosystems, Predict: [' The effects of climate change on ocean ecosystems.'], prompt length: 13909
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 13985
+Label: The benefits of a plant-based diet, Predict: [' The benefits of a plant-based diet.'], prompt length: 14018
+Label: The future of space tourism, Predict: [' The future of space tourism.'], prompt length: 14195
+Label: The effects of stress on the body and mind, Predict: [' The effects of stress on the body and mind.'], prompt length: 13822
+Label: The benefits of regular exercise, Predict: [' The benefits of regular exercise.'], prompt length: 13818
+Label: The history and impact of the Renaissance, Predict: [' The history and impact of the Renaissance.'], prompt length: 13851
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 13982
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 14051
+Label: The future of space tourism, Predict: [' The future of space tourism.'], prompt length: 13851
+Label: The effects of sleep on overall health, Predict: [' The effects of sleep on overall health.'], prompt length: 14195
+Label: The history and culture of ancient civilizations, Predict: [' The history and culture of ancient civilizations.'], prompt length: 14099
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 13837
+Label: The psychology of happiness, Predict: [' The psychology of happiness.'], prompt length: 13939
+Label: The role of education in society, Predict: [' The role of education in society.'], prompt length: 13869
+Label: The effects of air pollution on human health, Predict: [' The effects of air pollution on human health.'], prompt length: 13898
+Label: The impact of social media on communication, Predict: [' The impact of social media on communication.'], prompt length: 14095
+Label: The history and culture of ancient civilizations, Predict: [' The history and culture of ancient civilizations.'], prompt length: 13688
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 13953
+Label: The future of renewable energy technology, Predict: [' The future of renewable energy technology.'], prompt length: 14168
+Label: The effects of climate change on ocean ecosystems, Predict: [' The effects of climate change on ocean ecosystems.'], prompt length: 13889
+Label: The role of art in society, Predict: [' The role of art in society.'], prompt length: 14127
+Label: The history and culture of the Middle Ages, Predict: [' The history and culture of the Middle Ages.'], prompt length: 13960
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 13998
+Label: The history and culture of ancient civilizations, Predict: [' The history and culture of ancient civilizations.'], prompt length: 13943
+Label: The effects of air pollution on human health, Predict: [' The effects of air pollution on human health.'], prompt length: 13923
+Label: The benefits of learning a new language, Predict: [' The benefits of learning a new language.'], prompt length: 13959
+Label: The history and culture of ancient civilizations, Predict: [' The history and culture of ancient civilizations.'], prompt length: 13904
+Label: The role of music in society, Predict: [' The role of music in society.'], prompt length: 14062
+Label: The role of art in society, Predict: [' The role of art in society.'], prompt length: 14001
+Label: The impact of social media on mental health in adults, Predict: [' The impact of social media on mental health in adults.'], prompt length: 13887
+Label: The psychology of addiction and recovery, Predict: [' The topic of the psychology of addiction and recovery.'], prompt length: 13800
+Label: The benefits of a plant-based diet, Predict: [' The benefits of a plant-based diet.'], prompt length: 14093
+Label: The impact of technology on privacy and security, Predict: [' The impact of technology on privacy and security.'], prompt length: 13871
+Label: The benefits of a plant-based diet, Predict: [' The benefits of a plant-based diet.'], prompt length: 13876
+Label: The impact of social media on body image, Predict: [' The impact of social media on body image.'], prompt length: 13756
+Label: The impact of social media on body image, Predict: [' The impact of social media on body image.'], prompt length: 14002
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 13909
+Label: The role of education in society, Predict: [' The role of education in society.'], prompt length: 14039
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 13864
+Label: The role of education in society, Predict: [' The role of education in society.'], prompt length: 13980
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 13778
+Label: The impact of social media on communication, Predict: [' The impact of social media on communication.'], prompt length: 14091

@@ -1,0 +1,50 @@
+Label: The role of art in society, Predict: [' The role of art in society.'], prompt length: 8575
+Label: The benefits of regular exercise, Predict: [' The benefits of regular exercise.'], prompt length: 8690
+Label: The impact of social media on mental health in adults, Predict: [' The impact of social media on mental health in adults.'], prompt length: 8527
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 8508
+Label: The impact of technology on human connection, Predict: [' The impact of technology on human connection.'], prompt length: 8679
+Label: The impact of technology on human connection, Predict: [' The impact of technology on human connection.'], prompt length: 8760
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 8672
+Label: The psychology of creativity, Predict: [' The psychology of creativity.'], prompt length: 8571
+Label: The history and culture of the Middle Ages, Predict: [' The history and culture of the Middle Ages.'], prompt length: 8606
+Label: The effects of stress on the body and mind, Predict: [' The effects of stress on the body and mind.'], prompt length: 8960
+Label: The history and culture of the Middle Ages, Predict: [' The first topic we discussed was the history and culture of the Middle Ages.'], prompt length: 8737
+Label: The psychology of happiness, Predict: [' The psychology of happiness.'], prompt length: 8434
+Label: The psychology of creativity, Predict: [' The psychology of creativity.'], prompt length: 8540
+Label: The impact of technology on human connection, Predict: [' The impact of technology on human connection.'], prompt length: 8780
+Label: The impact of technology on privacy and security, Predict: [' The impact of technology on privacy and security.'], prompt length: 8513
+Label: The history and culture of the Middle Ages, Predict: [' The history and culture of the Middle Ages.'], prompt length: 8787
+Label: The psychology of happiness, Predict: [' The psychology of happiness.'], prompt length: 8295
+Label: The history and impact of the Renaissance, Predict: [' The history and impact of the Renaissance.'], prompt length: 8804
+Label: The impact of social media on communication, Predict: [' The impact of social media on communication.'], prompt length: 8477
+Label: The effects of climate change on ocean ecosystems, Predict: [' The effects of climate change on ocean ecosystems.'], prompt length: 8639
+Label: The future of renewable energy storage, Predict: [' The future of renewable energy storage.'], prompt length: 8671
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 8884
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 8460
+Label: The benefits of reading for pleasure, Predict: [' The benefits of reading for pleasure.'], prompt length: 8384
+Label: The history and culture of the Middle Ages, Predict: [' The history and culture of the Middle Ages.'], prompt length: 8480
+Label: The role of art in society, Predict: [' The role of art in society.'], prompt length: 8458
+Label: The role of sports in society, Predict: [' The role of sports in society.'], prompt length: 8450
+Label: The benefits of learning a new language, Predict: [' The benefits of learning a new language.'], prompt length: 8615
+Label: The effects of air pollution on human health, Predict: [' The effects of air pollution on human health.'], prompt length: 8746
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 8754
+Label: The role of sports in society, Predict: [' The role of sports in society.'], prompt length: 8681
+Label: The role of music in society, Predict: [' The role of music in society.'], prompt length: 8311
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 8890
+Label: The future of sustainable agriculture, Predict: [' The future of sustainable agriculture.'], prompt length: 8386
+Label: The benefits of mindfulness meditation, Predict: [' The benefits of mindfulness meditation.'], prompt length: 8519
+Label: The future of renewable energy technology, Predict: [' The future of renewable energy technology.'], prompt length: 8499
+Label: The psychology of addiction and recovery, Predict: [' The psychology of addiction and recovery.'], prompt length: 8612
+Label: The benefits of spending time in nature, Predict: [' The benefits of spending time in nature.'], prompt length: 8505
+Label: The benefits of regular exercise, Predict: [' The benefits of regular exercise.'], prompt length: 8511
+Label: The psychology of creativity, Predict: [' The psychology of creativity.'], prompt length: 8509
+Label: The future of renewable energy technology, Predict: [' The future of renewable energy technology.'], prompt length: 8627
+Label: The role of art in society, Predict: [' The role of art in society.'], prompt length: 8473
+Label: The role of education in society, Predict: [' The role of education in society.'], prompt length: 8767
+Label: The impact of social media on mental health in adults, Predict: [' The impact of social media on mental health in adults.'], prompt length: 8518
+Label: The psychology of addiction and recovery, Predict: [' The psychology of addiction and recovery.'], prompt length: 8556
+Label: The effects of sleep on overall health, Predict: [' The effects of sleep on overall health.'], prompt length: 8434
+Label: The history and impact of the Renaissance, Predict: [' The history and impact of the Renaissance.'], prompt length: 8496
+Label: The benefits of a plant-based diet, Predict: [' The benefits of a plant-based diet.'], prompt length: 8831
+Label: The effects of stress on the body and mind, Predict: [' The effects of stress on the body and mind.'], prompt length: 8729
+Label: The impact of social media on mental health in adults, Predict: [' The impact of social media on mental health in adults. \n\n---\n\n**Topic Index**\n\n1.  The impact of social media on mental health in adults\n2.  The role of music in society\n3.  The psychology of addiction and recovery'], prompt length: 8624
